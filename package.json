@@ -1,8 +1,9 @@
 {
   "name": "fallout-dark",
   "displayName": "Fallout-Dark",
-  "repository": "",
-  "description": "",
+  "repository": "https://github.com/valentinesamuel/themes.git",
+  "publisher": "valentinesamuel",
+  "description": "some themes by different authors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"

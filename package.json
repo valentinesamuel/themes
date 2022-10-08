@@ -1,0 +1,47 @@
+{
+  "name": "fallout-dark",
+  "displayName": "Fallout-Dark",
+  "repository": "",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fallout-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fallout-Dark-color-theme.json"
+      },
+      {
+        "label": "Architect-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Architect-Dark-color-theme.json"
+      },
+      {
+        "label": "DeepFlux",
+        "uiTheme": "vs",
+        "path": "./themes/Deep-Flux-color-theme.json"
+      },
+      {
+        "label": "DYEDB",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Do-You-Even-Dev-Bro-color-theme.json"
+      },
+      {
+        "label": "Ultra Focus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ultrafocus-color-theme.json"
+      },
+      {
+        "label": "Video Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Video-Conrast-color-theme.json"
+      }
+    ]
+  }
+}
